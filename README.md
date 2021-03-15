@@ -4,7 +4,6 @@
 
 The most anomalous code (methods) found by the model, learned on the train part of the dataset [Py150](https://www.sri.inf.ethz.ch/py150):
 - `py150_test_anomalies.txt`: test part of the dataset [Py150](https://www.sri.inf.ethz.ch/py150)
-- `javagithub_anomalies.txt`: copy of the repository `aseme` from the dataset [javaGitHub](https://groups.inf.ed.ac.uk/cup/javaGithub/)
 
 The methods sorted in descending order of the anomaly score. Example:
 ```
