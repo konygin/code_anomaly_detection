@@ -1,9 +1,5 @@
 # Code anomaly detection
 
-The repository contains the model and the results described in the paper
- "Source code anomaly detection in semantic representation".
-
-
 #### `results/`
 
 The most anomalous code (methods) found by the model, learned on the train part of the dataset [Py150](https://www.sri.inf.ethz.ch/py150):
@@ -19,7 +15,6 @@ LINES-->  420:421
          ----------------------------------------------------------------------------------------------------
 CODE --> def IN6_IS_ADDR_MC_NODELOCAL(a): return \
 ``` 
-
 
 #### `checkpoints/`
 
